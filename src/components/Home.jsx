@@ -5,10 +5,11 @@ import {RiArrowRightCircleLine} from 'react-icons/ri'
 const Home = () => {
   return (
     <div>
+        <img src={HeroImage}></img>
         <div>
             <div>
                 <h2>
-                    
+
                 </h2>
             </div>
         </div>
