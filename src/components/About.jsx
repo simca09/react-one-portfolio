@@ -11,20 +11,13 @@ const About = () => {
             </div>
             
             <p className='text-xl mt-4'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Hello! Please allow me to introduce myself. Feeling unsatisfied with the monotony of my current job as a Registered Dental Hygienist, I began searching for a career that would offer me the opportunity to solve problems, think critically, and be creative. 
+            After exploring different options, I've stumbled upon front-end web development and was instantly captivated by the idea of working on projects with a team, with a structured hierarchy in place. 
+            Although I'm new to the field, I'm eager to dive in and contribute to real-world projects that address pressing issues faced by companies.
+            I am hoping to learn and grow under the guidance of a supportive mentor and alongside like-minded colleagues. 
+            My goal is to expand my skill set by exploring back-end development and becoming a well-rounded developer.
             </p>
             
-            <br />
-
-            <p className='text-xl'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </p>
         </div>
     </div>
   )
