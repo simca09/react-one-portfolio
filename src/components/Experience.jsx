@@ -6,7 +6,6 @@ import reactImage from '../assets/react.png'
 import nextjs from '../assets/nextjs.png'
 import github from '../assets/github.png'
 import tailwind from '../assets/tailwind.png'
-import { toBeInTheDOM } from '@testing-library/jest-dom/dist/matchers'
 
 const Experience = () => {
 
